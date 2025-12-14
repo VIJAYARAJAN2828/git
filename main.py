@@ -1,3 +1,3 @@
-a=18
+a=15
 
 print('Your age is', a)
